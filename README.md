@@ -1,6 +1,6 @@
 # Galaxy Detection
 
-<img src="https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/potw2109a.jpg" width="700"/></a>
+<img src="https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/potw2109a.jpg" width="900"/></a>
 NGC 2336 - NASA
 
 The Galaxy Detection algorithm is responsible for classifying and revealing data about several galaxies, using some astrophotography for analysis. The model is trained using deep learning techniques to improve classification accuracy. I'm working on a first version, classifying each type of galaxy and improving the model with more data.
@@ -14,7 +14,7 @@ The main difference between the two is that training involves the process of opt
 In summary, training a model involves adjusting the parameters of the model to make accurate predictions while inference involves applying the trained model to new data to generate predictions based on the learned patterns.
 
 Model:
-<img src="https://developer.nvidia.com/blog/wp-content/uploads/2015/08/training_inference1.png" width="700"/></a>
+<img src="https://developer.nvidia.com/blog/wp-content/uploads/2015/08/training_inference1.png" width="900"/></a>
 Image by: Nvidia
 
 
