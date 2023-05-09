@@ -16,3 +16,32 @@ In summary, training a model involves adjusting the parameters of the model to m
 Model:
 <img src="https://developer.nvidia.com/blog/wp-content/uploads/2015/08/training_inference1.png" width="700"/></a>
 Image by: Nvidia
+
+
+## 🛠️ Developed with:
+
+- Python 3.10.6
+- Jupyter Notebook
+- VS Code 
+
+## 🖇️ Collaborating
+
+To collaborate follow these steps:
+
+- 1 - Fork the project
+
+- 2 - Create a branch with the new feature (git checkout -b feature/feature)
+
+- 3 - Perform the Commit (git commit -m 'Added content')
+
+- 4 - Realize Push on Branch (git push source feature/feature)
+
+- 5 - Open a Pull Request
+
+## 📌 Version
+
+1.0
+
+## ✒️ Authors
+
+* **Lucas Barcat** - *Graduating in Computer Engineering* - [lbarcat](https://github.com/lbarcat)
